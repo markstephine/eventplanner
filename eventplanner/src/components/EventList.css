@@ -38,7 +38,7 @@ body {
 }
 
 .cta-button:hover {
-  background-color: #e389b6;
+  background-color: #9fdee9;
 }
 
 .events-wrapper {
@@ -50,7 +50,7 @@ body {
 }
 
 .events_categories {
-  background-color: rgba(234, 140, 215, 0.953);
+  background-color: rgba(184, 170, 206, 0.953);
   border-radius: 12px;
   padding: 20px;
   width: 370px;
